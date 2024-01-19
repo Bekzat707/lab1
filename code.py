@@ -1,1 +1,1 @@
-print("Welcome to Kbtu")
+print("Welcome to Shymkent")
