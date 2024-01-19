@@ -1,1 +1,0 @@
-print("Turarbek      kotak zhe ")
