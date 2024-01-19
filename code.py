@@ -1,0 +1,1 @@
+print("Turarbek      kotak zhe ")
